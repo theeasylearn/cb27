@@ -1,11 +1,11 @@
 
     // logical operators
-    // >
-    // <
-    // >=
-    // <=
-    // ==
-    // != 
+    // > -> greater than 
+    // < -> less than
+    // >= -> greater than OR equal to
+    // <= -> less than OR equal to
+    // == -> double equal to
+    // != -> not equal to
 
     10 > 20     false       10 is greater than 20   false 
     20 > 10     true        20 is greater than 10
@@ -20,3 +20,19 @@
     2 != -2      true
     2 == -2      false
    
+
+
+
+
+
+
+
+
+
+
+   1 > 2 -> false 
+   2 > 1 -> true
+   2 >= -2 -> true
+   4 <= 2 -> false 
+   2 == 2 -> true
+   2 != 2 -> false
