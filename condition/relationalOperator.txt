@@ -1,11 +1,11 @@
 
-    // logical operators
-    // > -> greater than 
-    // < -> less than
-    // >= -> greater than OR equal to
-    // <= -> less than OR equal to
-    // == -> double equal to
-    // != -> not equal to
+    // relational operators
+    // > -> greater than ->              thi mota 
+    // < -> less than ->                 thi nana 
+    // >= -> greater than OR equal to ->     thi mota athva ani jetla 
+    // <= -> less than OR equal to ->    thi nana athva ani jetla
+    // == -> double equal to ->          ani jetla
+    // != -> not equal to   ->           ani jetla nahi
 
     10 > 20     false       10 is greater than 20   false 
     20 > 10     true        20 is greater than 10
@@ -19,16 +19,6 @@
 
     2 != -2      true
     2 == -2      false
-   
-
-
-
-
-
-
-
-
-
 
    1 > 2 -> false 
    2 > 1 -> true
@@ -36,3 +26,35 @@
    4 <= 2 -> false 
    2 == 2 -> true
    2 != 2 -> false
+
+
+1 > 2 false 
+2 < 1 false
+
+1 >= 4 false 
+
+2 <= 3 true
+
+3 >= 5 false
+
+-4 < 3 true
+
+3 >= 1 true
+3 <= 1 false
+3 == 1 
+
+
+2 > 2   false
+4 < 2   false
+4 > 2   true 
+
+2 >= 4  false
+4 >= 5  false
+2 <= 4  true
+
+1 > 0   true
+0 > 5   false 
+0 > -5  true
+
+1 == 1 true
+1 != 2 true

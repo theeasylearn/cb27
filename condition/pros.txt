@@ -1,4 +1,35 @@
 leap year 
-marks
-voting and nationality 
+
+&& and || 
 check vowel
+
+
+nested if 
+largest of three nums 
+
+
+
+logical operators
+
+&& and || 
+
+&& -> and -> if all conditions are tru -> jo badhi conditions sachi / true hoy to code run thashe 
+|| -> or -> if any one condition is true -> jo khali 1 condition sachi hoy to code run thashe 
+
+-----------
+&& - and
+
+c1  c2  t / f 
+t   t   t 
+t   f   f 
+f   t   f 
+f   f   f 
+
+
+-----------
+|| - or 
+c1  c2  t / f 
+t   t   t 
+t   f   t 
+f   t   t 
+f   f   f 
