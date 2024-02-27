@@ -3,3 +3,6 @@ greatestnum
 leapyear 
 checkPasswordLength
 positiveNegative
+
+Marks 
+// take three nums from user and print heighest of three 
