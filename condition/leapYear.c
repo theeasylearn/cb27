@@ -4,7 +4,7 @@
 
 #include<stdio.h>
 void main() {
-    int year;
+    int year = 2021;
     printf("Enter any year : ");
     scanf("%d", &year);
 
